@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ecodevopr_satu@bankmas.co.id'</initValue>
+      <name>emailMaker</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'testing123@mail.com'</initValue>
+      <name>emailDumy</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ecodevauth_satu@bankmas.co.id'</initValue>
+      <name>emailChecker</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ecodevopr_satu'</initValue>
+      <name>passMaker</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ecodevauth_satu'</initValue>
+      <name>passChecker</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Testing123*'</initValue>
+      <name>passDumy</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

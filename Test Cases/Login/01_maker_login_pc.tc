@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01_maker_login_pc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>43e61072-ecaf-41f3-af42-97bdc14a4b8d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sign In with e-mail</name>
+   <tag></tag>
+   <elementGuidId>a6e87a58-88d3-4e0e-98ce-c3617c09e079</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btn-bankmas > button.p-ripple.p-element.btn-white.p-button-outlined.p-button-lg.p-button-rounded.py-3.px-4.p-button-secondary.w-full.w-13rem.p-button.p-component</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8fe52683-0f8c-40aa-af78-b5ebbfd37bca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple p-element btn-white p-button-outlined p-button-lg p-button-rounded py-3 px-4 p-button-secondary w-full w-13rem p-button p-component</value>
+      <webElementGuid>3bfe7003-8145-4cfb-9742-13de23a15475</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-style</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>5bb0edcf-b477-4c13-8ae3-c3cd1ec312a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>6bd954ec-be29-4876-9ca1-9d3e6f227e66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b988dced-48d7-4166-91bf-2f1f28816152</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In with e-mail</value>
+      <webElementGuid>9b5bc090-3737-448e-a84d-423477e84ba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn-bankmas&quot;)/button[@class=&quot;p-ripple p-element btn-white p-button-outlined p-button-lg p-button-rounded py-3 px-4 p-button-secondary w-full w-13rem p-button p-component&quot;]</value>
+      <webElementGuid>593361e4-4cee-4ac7-ad1f-bfb8e834b46b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>5ff6c915-ea16-43fa-b09d-244b811f0c0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p-button[@id='btn-bankmas']/button</value>
+      <webElementGuid>41ad0ea5-27bc-449e-b4ec-9cb0294cf95b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In with SSO'])[1]/following::button[1]</value>
+      <webElementGuid>68992bed-4b74-441b-acda-86a16e3b74a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© Bank Multiarta Sentosa 2024'])[1]/preceding::button[1]</value>
+      <webElementGuid>c31ec6a7-ac93-4192-b9c7-206cb164bfeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/stdr-button-default/div/p-button/button</value>
+      <webElementGuid>b1066959-a204-47c3-b1d5-1431360e46ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Sign In with e-mail' or . = 'Sign In with e-mail')]</value>
+      <webElementGuid>d961e09b-cba9-4eed-b971-bf67dfa637f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

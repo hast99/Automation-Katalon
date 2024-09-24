@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Manajemen Ajudan</name>
+   <tag></tag>
+   <elementGuidId>9919affc-9297-4820-b3e5-25754ce2bc5e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#management-ajudan</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='management-ajudan']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f4498f38-c719-498a-87fa-b8ae9f610aa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sidenav-nav-link ng-tns-c116-1 ng-star-inserted</value>
+      <webElementGuid>ff4dbcf1-e2f0-475a-a1e5-390ceba63dbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>management-ajudan</value>
+      <webElementGuid>fa380d83-907c-488e-aad0-466501c2fb6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Manajemen Ajudan </value>
+      <webElementGuid>fd35467c-53b0-4849-875d-d82b74e009bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;management-ajudan&quot;)</value>
+      <webElementGuid>ae8b719d-48c7-433c-be4c-f5f524b43b41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='management-ajudan']</value>
+      <webElementGuid>d3b7cc02-4f68-43ff-9aaf-9f22a415657f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Program'])[1]/following::a[1]</value>
+      <webElementGuid>e8819e60-7066-403c-a837-9989b85c97eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program Name'])[1]/following::a[2]</value>
+      <webElementGuid>c9f2c29b-63b7-4bd2-b807-307dd1e9d3f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Depo'])[1]/preceding::a[1]</value>
+      <webElementGuid>2c3c08f9-bea4-49a5-a334-cb122aba9acd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/a</value>
+      <webElementGuid>641f45c9-338d-4b83-b784-4fe4297d9e7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'management-ajudan' and (text() = ' Manajemen Ajudan ' or . = ' Manajemen Ajudan ')]</value>
+      <webElementGuid>5e9a9041-b624-4259-8463-42a29c5486be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

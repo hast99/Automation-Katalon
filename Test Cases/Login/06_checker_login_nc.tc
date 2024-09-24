@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>06_checker_login_nc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>026ab804-f28e-4d89-80bf-d4affe7ffc48</testCaseGuid>
+</TestCaseEntity>
